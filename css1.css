@@ -1,0 +1,19 @@
+body{
+    color:blue;
+    text-align:center;
+    /* background-color:red; */
+}
+    p{
+        color:black;
+        background-color:white;
+    }
+
+#first{
+    color:aqua;
+}
+.second{
+    color:red; 
+}
+#second{
+    color:rgb(77, 204, 204); 
+}
